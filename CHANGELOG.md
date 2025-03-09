@@ -1,3 +1,4 @@
-## 0.0.1
+## 1.0.1
 
-* TODO: Describe initial release.
+- Updated flutter_lints to version 5.0.0
+- Improved documentation and examples
