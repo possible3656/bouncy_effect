@@ -6,7 +6,7 @@ A Flutter package that adds a delightful bouncy scale animation effect to any wi
 
 | Example 1                           | Example 2                           |
 | ----------------------------------- | ----------------------------------- |
-| ![Example 1](screenshots/gif_1.gif) | ![Example 2](screenshots/gif_2.gif) |
+| ![Example 1](screenshots/gif_0.gif) | ![Example 2](screenshots/gif_2.gif) |
 
 ## Features
 

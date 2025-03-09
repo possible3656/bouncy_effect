@@ -1,6 +1,6 @@
 name: bouncy_effect
 description: A widget that adds a bouncy scale animation effect to its child when tapped.
-version: 1.0.2
+version: 1.0.3
 homepage: https://github.com/possible3656/bouncy_effect
 repository: https://github.com/possible3656/bouncy_effect
 issue_tracker: https://github.com/possible3656/bouncy_effect/issues
