@@ -35,7 +35,7 @@ class BouncyEffect extends StatefulWidget {
     this.onTap,
     this.isScalingEnabled = true,
     this.lowerBound = 0.9,
-  });
+  }) : assert(lowerBound < 1.0, 'lowerBound must be less than 1.0');
 
   /// The widget to apply the bouncy effect to
   final Widget child;
