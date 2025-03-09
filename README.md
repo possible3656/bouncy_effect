@@ -2,6 +2,12 @@
 
 A Flutter package that adds a delightful bouncy scale animation effect to any widget when tapped. This provides tactile feedback for user interactions.
 
+## Demo
+
+| Example 1                           | Example 2                           |
+| ----------------------------------- | ----------------------------------- |
+| ![Example 1](screenshots/gif_1.gif) | ![Example 2](screenshots/gif_2.gif) |
+
 ## Features
 
 - 🎯 Smooth bouncy scale animation on tap
