@@ -2,3 +2,7 @@
 
 - Updated flutter_lints to version 5.0.0
 - Improved documentation and examples
+
+## 1.0.2
+
+- Enhanced README with demo GIFs and feature list
