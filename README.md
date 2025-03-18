@@ -4,8 +4,8 @@ A Flutter package that adds a delightful bouncy scale animation effect to any wi
 
 ## Demo
 
-| Example 1                           | Example 2                           |
-| ----------------------------------- | ----------------------------------- |
+| Example 1                                                                                            | Example 2                                                                                            |
+| ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | ![Example 1](https://github.com/possible3656/bouncy_effect/blob/main/screenshots/gif_0.gif?raw=true) | ![Example 2](https://github.com/possible3656/bouncy_effect/blob/main/screenshots/gif_2.gif?raw=true) |
 
 ## Features
@@ -24,7 +24,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  bouncy_effect: ^1.0.0
+  bouncy_effect: ^1.0.5
 ```
 
 Install the package by running:
@@ -105,7 +105,7 @@ BouncyEffect(
 
 ## Contributing
 
-Feel free to contribute to this package by creating issues or submitting pull requests on our [GitHub repository](https://github.com/yourusername/bouncy_effect).
+Feel free to contribute to this package by creating issues or submitting pull requests on our [GitHub repository](https://github.com/possible3656/bouncy_effect).
 
 ## License
 

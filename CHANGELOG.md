@@ -1,3 +1,7 @@
+## 1.0.5
+
+- Updated repo link and minor refactor
+
 ## 1.0.4
 
 - Enhanced README with demo GIFs and feature list
